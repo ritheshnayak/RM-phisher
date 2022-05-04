@@ -39,25 +39,26 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Installation
 
-##### Just, Clone this repository -
+#### Just, Clone this repository -
 ```
 $ git clone git://github.com/ritheshnayak/RM-phisher.git
 ```
 
-##### Go to cloned directory -
+#### Change to cloned directory -
 ```
 $ cd RM-phisher
 ```
 
-##### Follow the Commands here
+#### Follow the Commands here
 ```
 $ chmod 777 RM-phisher.sh
-
+```
+```
 $ sudo bash RM-phisher.sh
 ```
 - ### Dependencies
 
-**`RM-phisher`** requires following programs to run properly - 
+**`RM-phisher`** requires following programs to run properly [installed automatically]- 
 - `php`
 - `wget`
 - `curl`
