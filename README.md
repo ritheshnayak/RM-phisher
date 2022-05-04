@@ -21,7 +21,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 ### Features
 
 - Latest and updated login pages.
-- Mask URL support 
+- Mask URL support - [http only] 
 - Beginners friendly
 - Tunneling options
   - Localhost (visit 127.0.0.1:8080)
