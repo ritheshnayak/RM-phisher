@@ -64,6 +64,8 @@ sudo bash RM-phisher.sh
 - `curl`
 - `git`
 
+>
 > All the dependencies will be installed automatically when you run `Rm-phisher` for the first time.
 >
 > Supported Platform : **`Termux[on android]`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
+>
