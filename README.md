@@ -29,11 +29,11 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Screenshots 
 #### Menu
-![Screenshot_20220413-100117_Termux](https://i.imgur.com/p2pi0yk.jpg)
+![Screenshot_20220413-100117_Kali](https://i.imgur.com/p2pi0yk.jpg)
 #### Website and login page selection
-![Screenshot_20220413-101720_Termux](https://i.imgur.com/rnbpnY7.jpg)
+![Screenshot_20220413-101720_Kali](https://i.imgur.com/rnbpnY7.jpg)
 #### Share the link and grab details
-![Screenshot_20220413-102024_Termux](https://i.imgur.com/NFGsvn3.jpg)
+![Screenshot_20220413-102024_Kali](https://i.imgur.com/NFGsvn3.jpg)
 
 
 
@@ -41,20 +41,20 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 #### Just, Clone this repository -
 ```
-$ git clone git://github.com/ritheshnayak/RM-phisher.git
+git clone git://github.com/ritheshnayak/RM-phisher.git
 ```
 
 #### Change to cloned directory -
 ```
-$ cd RM-phisher
+cd RM-phisher
 ```
 
 #### Follow the Commands here
 ```
-$ chmod 777 RM-phisher.sh
+chmod 777 RM-phisher.sh
 ```
 ```
-$ sudo bash RM-phisher.sh
+sudo bash RM-phisher.sh
 ```
 - ### Dependencies
 
