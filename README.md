@@ -29,9 +29,9 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Screenshots 
 #### Menu
-![Screenshot_20220413-100117_Kali](https://i.imgur.com/p2pi0yk.jpg)
+![Screenshot_20220413-100117_Kali](https://i.imgur.com/p2pi0yk.jpg?1)
 #### Website and login page selection
-![Screenshot_20220413-101720_Kali](https://i.imgur.com/rnbpnY7.jpg)
+![Screenshot_20220413-101720_Kali](https://i.imgur.com/rnbpnY7.jpg?1)
 #### Share the link and grab details
 ![Screenshot_20220413-102024_Kali](https://i.imgur.com/NFGsvn3.jpg)
 
