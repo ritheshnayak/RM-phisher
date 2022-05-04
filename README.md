@@ -1,6 +1,6 @@
 # RM-phisher
 
-<h2><p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p></h2>
+<p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 
 ##
 
